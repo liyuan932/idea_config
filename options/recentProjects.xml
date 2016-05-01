@@ -1,0 +1,30 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="G:\workspace\myapp" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="G:\workspace\myapp" />
+      </list>
+    </option>
+    <option name="lastPath" value="G:\workspace\myapp" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="G:\workspace\myapp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.970" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="G:\dev\ideaIU-145.970.4.win\bin" />
+              <option name="projectOpenTimestamp" value="1462110720930" />
+              <option name="buildTimestamp" value="1460908800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
