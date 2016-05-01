@@ -1,37 +1,37 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="JavaScript versions">
-      <project id="myapp" values="ECMAScript 5.1" collectionTime="1462111021940" />
+    <group name="libraries">
+      <project id="myapp" values="CDI,spring-mvc,spring" collectionTime="1462111021659" />
     </group>
-    <group name="module type">
-      <project id="myapp" values="JAVA_MODULE" collectionTime="1462111021448" />
+    <group name="Git">
+      <project id="myapp" values="config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.ssh.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.push.update.all.roots.enabled,data.remote.branches.count.2+,config.warn.about.crlf.enabled" collectionTime="1462111021683" />
     </group>
     <group name="vcs">
       <project id="myapp" values="Git" collectionTime="1462111021448" />
     </group>
+    <group name="frameworks">
+      <project id="myapp" values="web" collectionTime="1462111021448" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="myapp" values="ECMAScript 5.1" collectionTime="1462111021940" />
+    </group>
     <group name="run-configuration-type">
       <project id="myapp" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1462111021448" />
-    </group>
-    <group name="file-type">
-      <project id="myapp" values="JAVA,Properties,XML,PLAIN_TEXT,SQL,JSP,HTML" collectionTime="1462111021645" />
     </group>
     <group name="Spring MVC">
       <project id="myapp" values="mvcModelsInProject_0" collectionTime="1462111021980" />
     </group>
-    <group name="javaScript Scope Usages">
-      <project id="myapp" values="Project,Project" collectionTime="1462111021940" />
-    </group>
-    <group name="Git">
-      <project id="myapp" values="config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.save.policy.STASH,data.remote.branches.count.2+,data.local.branches.count.1,config.force.push.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1462111021683" />
-    </group>
-    <group name="libraries">
-      <project id="myapp" values="spring,spring-mvc,CDI" collectionTime="1462111021659" />
-    </group>
-    <group name="frameworks">
-      <project id="myapp" values="web" collectionTime="1462111021448" />
-    </group>
     <group name="language-level">
       <project id="myapp" values="JDK_1_3,JDK_1_7" collectionTime="1462111021677" />
+    </group>
+    <group name="file-type">
+      <project id="myapp" values="XML,Properties,SQL,JSP,JAVA,HTML,PLAIN_TEXT" collectionTime="1462111021645" />
+    </group>
+    <group name="module type">
+      <project id="myapp" values="JAVA_MODULE" collectionTime="1462111021448" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="myapp" values="Project,Project" collectionTime="1462111021940" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -46,7 +46,7 @@
       <entry feature="ide.settings.Project_Structure" count="1" />
       <entry feature="ide.settings.Runner" count="1" />
       <entry feature="ide.settings.SSH_Terminal" count="1" />
-      <entry feature="ideaapp.started" count="4" />
+      <entry feature="ideaapp.started" count="5" />
       <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="12" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
     </counts>
