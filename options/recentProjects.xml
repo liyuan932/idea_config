@@ -3,6 +3,8 @@
     <option name="recentPaths">
       <list>
         <option value="G:\workspace\myapp" />
+        <option value="C:\Users\Administrator\IdeaProjects\IntelliJ-IDEA-Tutorial" />
+        <option value="C:\Users\Administrator\IdeaProjects\liyuan932.github.io" />
       </list>
     </option>
     <option name="openPaths">
@@ -13,18 +15,41 @@
     <option name="lastPath" value="G:\workspace\myapp" />
     <option name="additionalInfo">
       <map>
+        <entry key="C:\Users\Administrator\IdeaProjects\IntelliJ-IDEA-Tutorial">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.970" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="G:\dev\ideaIU-145.970.4.win\bin" />
+              <option name="projectOpenTimestamp" value="1462156205985" />
+              <option name="buildTimestamp" value="1460908800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Administrator\IdeaProjects\liyuan932.github.io">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.970" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="G:\dev\ideaIU-145.970.4.win\bin" />
+              <option name="projectOpenTimestamp" value="1462115082637" />
+              <option name="buildTimestamp" value="1460908800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="G:\workspace\myapp">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-145.970" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="G:\dev\ideaIU-145.970.4.win\bin" />
-              <option name="projectOpenTimestamp" value="1462111416924" />
+              <option name="projectOpenTimestamp" value="1462156225466" />
               <option name="buildTimestamp" value="1460908800000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
   </component>
 </application>

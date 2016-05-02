@@ -1,53 +1,97 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="libraries">
-      <project id="myapp" values="CDI,spring-mvc,spring" collectionTime="1462111021659" />
-    </group>
-    <group name="Git">
-      <project id="myapp" values="config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.ssh.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.push.update.all.roots.enabled,data.remote.branches.count.2+,config.warn.about.crlf.enabled" collectionTime="1462111021683" />
-    </group>
-    <group name="vcs">
-      <project id="myapp" values="Git" collectionTime="1462111021448" />
-    </group>
-    <group name="frameworks">
-      <project id="myapp" values="web" collectionTime="1462111021448" />
-    </group>
     <group name="JavaScript versions">
-      <project id="myapp" values="ECMAScript 5.1" collectionTime="1462111021940" />
-    </group>
-    <group name="run-configuration-type">
-      <project id="myapp" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1462111021448" />
-    </group>
-    <group name="Spring MVC">
-      <project id="myapp" values="mvcModelsInProject_0" collectionTime="1462111021980" />
-    </group>
-    <group name="language-level">
-      <project id="myapp" values="JDK_1_3,JDK_1_7" collectionTime="1462111021677" />
-    </group>
-    <group name="file-type">
-      <project id="myapp" values="XML,Properties,SQL,JSP,JAVA,HTML,PLAIN_TEXT" collectionTime="1462111021645" />
+      <project id="IntelliJ-IDEA-Tutorial" values="ECMAScript 5.1" collectionTime="1462156225466" />
+      <project id="myapp" values="ECMAScript 5.1" collectionTime="1462157091898" />
+      <project id="liyuan932.github.io" values="ECMAScript 5.1" collectionTime="1462115151374" />
     </group>
     <group name="module type">
-      <project id="myapp" values="JAVA_MODULE" collectionTime="1462111021448" />
+      <project id="IntelliJ-IDEA-Tutorial" values="WEB_MODULE" collectionTime="1462156225260" />
+      <project id="myapp" values="JAVA_MODULE" collectionTime="1462157091742" />
+      <project id="liyuan932.github.io" values="WEB_MODULE" collectionTime="1462115150925" />
+    </group>
+    <group name="vcs">
+      <project id="IntelliJ-IDEA-Tutorial" values="Git" collectionTime="1462156225260" />
+      <project id="myapp" values="Git" collectionTime="1462157091742" />
+      <project id="liyuan932.github.io" values="Git" collectionTime="1462115150924" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="myapp" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1462157091898" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="myapp" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1462157091742" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="myapp" values="TestNG" collectionTime="1462157091742" />
+    </group>
+    <group name="file-type">
+      <project id="IntelliJ-IDEA-Tutorial" values="Images,UNKNOWN,JSON,PLAIN_TEXT,HTML,Native" collectionTime="1462156225451" />
+      <project id="myapp" values="SQL,PLAIN_TEXT,Properties,XML,JSP,JAVA,HTML" collectionTime="1462157091852" />
+      <project id="liyuan932.github.io" values="Images,PLAIN_TEXT,HTML,JavaScript,JSON,CSS" collectionTime="1462115151056" />
+    </group>
+    <group name="Spring MVC">
+      <project id="myapp" values="mvcModelsInProject_0" collectionTime="1462157091914" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="myapp" values="com.mysql.jdbc.Driver" collectionTime="1462157091898" />
+    </group>
+    <group name="spring">
+      <project id="myapp" values="fileset_autodetect_NONE,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,fileset_configFiles5" collectionTime="1462157091914" />
     </group>
     <group name="javaScript Scope Usages">
-      <project id="myapp" values="Project,Project" collectionTime="1462111021940" />
+      <project id="IntelliJ-IDEA-Tutorial" values="Project,Project" collectionTime="1462156225466" />
+      <project id="myapp" values="Project,Project" collectionTime="1462157091898" />
+      <project id="liyuan932.github.io" values="Project,Project" collectionTime="1462115151374" />
+    </group>
+    <group name="Git">
+      <project id="IntelliJ-IDEA-Tutorial" values="data.local.branches.count.1,config.warn.about.detached.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.force.push.enabled,config.ssh.enabled,data.remote.branches.count.1" collectionTime="1462156225451" />
+      <project id="myapp" values="config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,data.remote.branches.count.2+,config.ssh.enabled,config.push.autoupdate.disabled,config.save.policy.STASH" collectionTime="1462157091898" />
+      <project id="liyuan932.github.io" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,data.remote.branches.count.1,data.remotes.in.project.1,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.warn.about.crlf.enabled" collectionTime="1462115151072" />
+    </group>
+    <group name="libraries">
+      <project id="myapp" values="spring,spring-mvc,CDI" collectionTime="1462157091883" />
+    </group>
+    <group name="frameworks">
+      <project id="myapp" values="Spring,web" collectionTime="1462157091742" />
+    </group>
+    <group name="language-level">
+      <project id="IntelliJ-IDEA-Tutorial" values="JDK_1_3" collectionTime="1462156225451" />
+      <project id="myapp" values="JDK_1_6,JDK_1_7" collectionTime="1462157091898" />
+      <project id="liyuan932.github.io" values="JDK_1_3" collectionTime="1462115151066" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="1" />
+      <entry feature="execute.TestNG.Run" count="2" />
+      <entry feature="git.branch.checkout.local" count="1" />
+      <entry feature="git.branch.checkout.remote" count="2" />
+      <entry feature="ide.settings.Appearance" count="11" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Compiler" count="1" />
+      <entry feature="ide.settings.Confirmation" count="2" />
+      <entry feature="ide.settings.Console_Font" count="5" />
       <entry feature="ide.settings.File_Encodings" count="1" />
       <entry feature="ide.settings.File_Types" count="1" />
-      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="8" />
+      <entry feature="ide.settings.Font" count="5" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Java_Compiler" count="1" />
       <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.Live_Templates" count="3" />
       <entry feature="ide.settings.Maven" count="1" />
       <entry feature="ide.settings.Plugins" count="2" />
-      <entry feature="ide.settings.Project_Structure" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="3" />
       <entry feature="ide.settings.Runner" count="1" />
       <entry feature="ide.settings.SSH_Terminal" count="1" />
-      <entry feature="ideaapp.started" count="5" />
-      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="12" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="6" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="18" />
+      <entry feature="spring.SpringFacetInspection.AddFacetFix" count="1" />
+      <entry feature="terminal.win" count="1" />
+      <entry feature="uml.ShowDiagram.SPRING" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
     </counts>
   </component>
