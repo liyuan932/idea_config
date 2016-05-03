@@ -1,0 +1,10 @@
+<templateSet group="java">
+  <template name="test" value="@Test&#10;public void test(){&#10;    $END$&#10;}" description="add a test method" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+    </context>
+  </template>
+</templateSet>

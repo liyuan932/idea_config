@@ -3,6 +3,7 @@
     <option name="recentPaths">
       <list>
         <option value="G:\workspace\myapp" />
+        <option value="C:\Users\Administrator\IdeaProjects\hello-world" />
         <option value="C:\Users\Administrator\IdeaProjects\IntelliJ-IDEA-Tutorial" />
         <option value="C:\Users\Administrator\IdeaProjects\liyuan932.github.io" />
       </list>
@@ -26,6 +27,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:\Users\Administrator\IdeaProjects\hello-world">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.970" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="G:\dev\ideaIU-145.970.4.win\bin" />
+              <option name="projectOpenTimestamp" value="1462158667038" />
+              <option name="buildTimestamp" value="1460908800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:\Users\Administrator\IdeaProjects\liyuan932.github.io">
           <value>
             <RecentProjectMetaInfo>
@@ -43,7 +55,7 @@
               <option name="build" value="IU-145.970" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="G:\dev\ideaIU-145.970.4.win\bin" />
-              <option name="projectOpenTimestamp" value="1462156225466" />
+              <option name="projectOpenTimestamp" value="1462199380309" />
               <option name="buildTimestamp" value="1460908800000" />
             </RecentProjectMetaInfo>
           </value>

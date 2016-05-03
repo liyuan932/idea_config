@@ -4,13 +4,18 @@
       <array>
         <array>
           <option value="9048dc5dda654ba690e17bf776695e88c05868f5f628c0cd9e3f34bb7b2581eb" />
+          <option value="bd993b66866830774d73d2b1a83c729d45fd2ba03d047a43751eb4c0d64a0678" />
           <option value="e86d036dc89ed252627ba61b6023ec0b21cbd58fbbacdbe2b530c4a553903dd8" />
         </array>
         <array>
           <option value="810ed30219e08d574e907ab595b907e7" />
+          <option value="e3b4cc3de02b909821d3ff943452e35d" />
           <option value="8962f7731a0b30862b4da5c9d9830a2cc5f5fc1648242d888b16d1668c2dd1ad" />
         </array>
       </array>
     </option>
+  </component>
+  <component name="SSHConnectionSettings">
+    <successfulAuthentication user="git@github.com" method="publickey" />
   </component>
 </application>

@@ -13,5 +13,112 @@
       </TabImpl>
       <General />
     </runner>
+    <runner id="Debug">
+      <ViewImpl>
+        <option name="ID" value="FrameContent" />
+        <option name="minimizedInGrid" value="true" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="VariablesContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="WatchesContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="ConsoleContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="Deployment" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="ThreadsContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\Administrator\.IntelliJIdea2016.1\system\tomcat\Unnamed_myapp\logs\localhost.2016-05-02.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\Administrator\.IntelliJIdea2016.1\system\tomcat\Unnamed_myapp\logs\catalina.2016-05-02.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="displayName" value="Debugger" />
+        <option name="leftProportion" value="0.45114008" />
+        <option name="rightProportion" value="0.19869708" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
+        <option name="defaultIndex" value="1" />
+        <option name="index" value="1" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
+        <option name="defaultIndex" value="2" />
+        <option name="index" value="2" />
+      </TabImpl>
+      <General />
+    </runner>
+    <runner id="MySQL - test@localhost">
+      <ViewImpl>
+        <option name="ID" value="Input" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="ResultTab" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="displayName" value="Database Console" />
+      </TabImpl>
+      <General />
+    </runner>
+    <runner id="dataSource">
+      <ViewImpl>
+        <option name="ID" value="Input" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="displayName" value="Database Console" />
+      </TabImpl>
+      <General />
+    </runner>
   </component>
 </application>

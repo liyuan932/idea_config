@@ -1,0 +1,10 @@
+<code_scheme name="ME">
+  <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+  </codeStyleSettings>
+</code_scheme>
