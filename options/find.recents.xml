@@ -1,0 +1,14 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>.</find>
+      <find>DAO</find>
+      <find>import</find>
+      <find>Name</find>
+      <find>javadoc</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Dao</replace>
+    </replaceStrings>
+  </component>
+</application>

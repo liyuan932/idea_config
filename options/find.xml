@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File 'G:\workspace\myapp\myapp-biz\src\main\java\com\mycompany\myapp\enums\category\StatusEnum.java'" />
+    <option name="defaultScopeName" value="File 'G:\workspace\myapp\myapp-biz\src\main\java\com\mycompany\myapp\enums\category\StatusEnum.java'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File 'G:\workspace\myapp\myapp-biz\src\main\java\com\mycompany\myapp\enums\category\StatusEnum.java'" />
+  </component>
+</application>

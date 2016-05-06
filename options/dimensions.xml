@@ -4,7 +4,7 @@
     <location key="WELCOME_SCREEN.0.0.1366.768" x="713" y="230" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="421" y="195" />
     <location key="#com.intellij.tools.ToolEditorDialog.0.0.1366.768" x="360" y="120" />
-    <location key="SettingsEditor.0.0.1366.768" x="392" y="46" />
+    <location key="SettingsEditor.0.0.1366.768" x="290" y="0" />
     <location key="replaceTextDialog.0.0.1366.768" x="468" y="68" />
     <location key="#Project_Structure.0.0.1366.768" x="108" y="0" />
     <location key="spring file set editor.0.0.1366.768" x="347" y="73" />
@@ -45,7 +45,12 @@
     <location key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog.0.0.1366.768" x="439" y="239" />
     <location key="scopes.0.0.1366.768" x="469" y="264" />
     <location key="Vcs.Push.Dialog.0.0.1366.768" x="412" y="91" />
-    <size key="SettingsEditor.0.0.1366.768" width="967" height="623" />
+    <location key="MergeDialog.0.0.1366.768" x="173" y="26" />
+    <location key="MultipleFileMergeDialog.0.0.1366.768" x="409" y="106" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1366.768" x="217" y="0" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1366.768" x="207" y="311" />
+    <location key="#Inspections.0.0.1366.768" x="346" y="48" />
+    <size key="SettingsEditor.0.0.1366.768" width="967" height="723" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="1260" height="312" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="1260" height="312" />
     <size key="GridCell.Tab.0.right.0.0.1366.768" width="1260" height="312" />
