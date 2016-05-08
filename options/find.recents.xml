@@ -6,9 +6,31 @@
       <find>import</find>
       <find>Name</find>
       <find>javadoc</find>
+      <find>\* (.*)\.\n</find>
+      <find>Dao</find>
+      <find>FileTabCharacter</find>
+      <find>EmptyLineSeparator</find>
+      <find>NoLineWrap</find>
+      <find>CustomImportOrder</find>
+      <find>OverloadMethodsDeclarationOrder</find>
+      <find>NeedBraces</find>
+      <find>Indentation</find>
+      <find>^[ ]+(.+) \+$</find>
+      <find>^[ ]+(.+) \+\n</find>
+      <find>OperatorWrap</find>
+      <find>WhitespaceAround</find>
+      <find>ArrayTypeStyle</find>
+      <find>ModifierOrder</find>
+      <find>NoFinalizer</find>
+      <find>JavadocTagContinuationIndentation</find>
+      <find>JavadocMethod</find>
     </findStrings>
     <replaceStrings>
       <replace>Dao</replace>
+      <replace>\*$1\n</replace>
+      <replace>DAO</replace>
+      <replace>\+$1</replace>
+      <replace>\+$1\n</replace>
     </replaceStrings>
   </component>
 </application>

@@ -2,7 +2,7 @@
   <component name="PropertiesComponent">
     <property name="installed.kotlin.plugin.version" value="1.0.1-release-IJ143-40" />
     <property name="android-component-compatibility-check" value="1462107791793" />
-    <property name="file.chooser.recent.files" value="G:/workspace/myapp/google_checks.xml&#10;G:/dev/tools/idea plugin/MetricsReloaded.zip&#10;G:/dev/tools/idea plugin/Statistic-2.6.1.jar&#10;C:/Users/Administrator/Downloads/CheckStyle-IDEA-4.27.4.zip&#10;C:/Users/Administrator/Downloads/FindBugs-IDEA-0.9.997.zip&#10;G:/workspace/myapp/myapp-web/src/main/webapp/WEB-INF/web.xml&#10;C:/Program Files/Java/jdk1.7.0_79&#10;G:/dev/tomcat7&#10;C:/Program Files/Java/jdk1.8.0_66&#10;G:/dev/jr-ide-intellij-6.4.3_13-16.zip&#10;G:/dev/MavenRunHelper.zip&#10;G:/workspace/myapp" />
+    <property name="file.chooser.recent.files" value="G:/dev/tools/idea plugin/FindBugs-IDEA-0.9.997.zip&#10;G:/workspace/myapp/google_checks.xml&#10;G:/dev/tools/idea plugin/MetricsReloaded.zip&#10;G:/dev/tools/idea plugin/Statistic-2.6.1.jar&#10;C:/Users/Administrator/Downloads/CheckStyle-IDEA-4.27.4.zip&#10;C:/Users/Administrator/Downloads/FindBugs-IDEA-0.9.997.zip&#10;G:/workspace/myapp/myapp-web/src/main/webapp/WEB-INF/web.xml&#10;C:/Program Files/Java/jdk1.7.0_79&#10;G:/dev/tomcat7&#10;C:/Program Files/Java/jdk1.8.0_66&#10;G:/dev/jr-ide-intellij-6.4.3_13-16.zip&#10;G:/dev/MavenRunHelper.zip&#10;G:/workspace/myapp" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
     <property name="lastTip" value="1" />
@@ -18,7 +18,6 @@
     <property name="sm_test_statistics_table_columnsOrder1" value="1" />
     <property name="sm_test_statistics_table_columnsWidth2" value="75" />
     <property name="sm_test_statistics_table_columnsOrder2" value="2" />
-    <property name="TestNG.Splitter.Proportion" value="0.24269481" />
     <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Paths" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="create.project.preferred.importer" value="Existing Sources" />
@@ -35,7 +34,7 @@
     <property name="typescript.show.auto.import" value="true" />
     <property name="typescript.merge.auto.import" value="true" />
     <property name="typescript.use.config.auto.import" value="false" />
-    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
     <property name="FrameworksFinderRecursivePanel[0]" value="0.16299918" />
     <property name="SpringBeansModulesPanel[0]" value="0.16299918" />
     <property name="SpringMvcModulesPanel[0]" value="0.16299918" />
@@ -52,5 +51,6 @@
     <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
     <property name="INSPECTION_FILTER_HISTORY" value="style" />
     <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="TestNG.Splitter.Proportion" value="0.08943089" />
   </component>
 </application>

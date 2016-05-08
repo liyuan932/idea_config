@@ -1597,6 +1597,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.jet">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="io.github.jhsx.GoJetPlugin" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.jfd">
       <plugins>
         <option name="myPlugins">
@@ -1958,6 +1971,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.mas">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.matchingRule">
       <plugins>
         <option name="myPlugins">
@@ -1990,6 +2016,11 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+            <plugin>
+              <option name="myPluginId" value="io.github.liias.monkey" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -2405,6 +2436,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.illuminatedcloud.intellij" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.pex">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.plugins.pants" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
